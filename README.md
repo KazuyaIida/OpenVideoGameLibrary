@@ -1,56 +1,43 @@
-# OpenVideoGameLibrary
+## ロゴ画像を載せる
+
+# Open Video Game Library
+
 This is a draft of OVGL top page.
 
-# DEMO
+Japanese README is [here](hogehogehoge).
 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+## キービジュアル
 
-# Features
+ひと目でOVGLの意義と役割が分かるようなデモ動画や図解を載せる
 
-"hoge"のセールスポイントや差別化などを説明する
+## OVGLの概要説明，目的
 
-# Requirement
+このプロジェクトでは何をどのような目的で行っている？
 
-"hoge"を動かすのに必要なライブラリなどを列挙する
+あまり長くならないよう簡潔に
 
-* huga 3.5.2
-* hogehuga 1.0.2
+ホームページのURLを載せるのもあり？
 
-# Installation
+## ライセンス情報
 
-Requirementで列挙したライブラリなどのインストール方法を説明する
+許される利用範囲
+
+2次配布禁止，営利目的での利用禁止など
+
+## 展望，その他研究者に伝えたいこと
+
+このプロジェクトが今後どのような方針でアップデートされていくのか
+
+注意点
 
 ```bash
 pip install huga_package
 ```
 
-# Usage
+## ゲームに対して要望やコメントを送れる連絡先
 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+こんなゲームを作って欲しい
 
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
+このREADMEの〇〇の部分がよく分からない
 
-# Note
-
-注意点などがあれば書く
-
-# Author
-
-作成情報を列挙する
-
-* 作成者
-* 所属
-* E-mail
-
-# License
-ライセンスを明示する
-
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
-社内向けなら社外秘であることを明示してる
-
-"hoge" is Confidential.
+## プロジェクトメンバーと所属
