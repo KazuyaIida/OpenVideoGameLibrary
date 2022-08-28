@@ -1,5 +1,7 @@
 ![OVGL ロゴ](https://user-images.githubusercontent.com/77042312/187063250-52b8f499-a464-4c04-ab7c-8eeccc65bcaa.png)
 
+![](https://img.shields.io/github/issues/KazuyaIida/OpenVideoGameLibrary) ![](https://img.shields.io/github/forks/KazuyaIida/OpenVideoGameLibrary) ![](https://img.shields.io/github/stars/KazuyaIida/OpenVideoGameLibrary) ![](https://img.shields.io/github/license/KazuyaIida/OpenVideoGameLibrary) ![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FKazuyaIida%2FOpenVideoGameLibrary)
+
 # Open Video Game Library
 
 The Open Video Game Library is a library for game researchers that aims to make game research easier to conduct and to contribute to the development of game research.
