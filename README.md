@@ -1,43 +1,48 @@
-## ロゴ画像を載せる
+![OVGL ロゴ](https://user-images.githubusercontent.com/77042312/187063250-52b8f499-a464-4c04-ab7c-8eeccc65bcaa.png)
 
 # Open Video Game Library
 
-This is a draft of OVGL top page.
+The Open Video Game Library is a library for game researchers that aims to make game research easier to conduct and to contribute to the development of game research.
 
-Japanese README is [here](hogehogehoge).
+![EC2021_fastforward](https://user-images.githubusercontent.com/77042312/187063347-6e3c36b4-892e-4b79-9a76-623ff05a02cd.gif)
 
-## キービジュアル
+## Contents
 
-ひと目でOVGLの意義と役割が分かるようなデモ動画や図解を載せる
+Open Video Game Library provides open video games that are easy to use for research, taking into account issues such as the low editability of commercially available video games, the development cost of creating your own games, and the ease of comparison with other research.
 
-## OVGLの概要説明，目的
+Click [here](https://open-video-game-library.github.io/info/about/) to visit our website.
 
-このプロジェクトでは何をどのような目的で行っている？
-
-あまり長くならないよう簡潔に
-
-ホームページのURLを載せるのもあり？
-
-## ライセンス情報
-
-許される利用範囲
-
-2次配布禁止，営利目的での利用禁止など
-
-## 展望，その他研究者に伝えたいこと
-
-このプロジェクトが今後どのような方針でアップデートされていくのか
-
-注意点
+## Licence
 
 ```bash
-pip install huga_package
+1. 
+
+2. 
+
+3. 
 ```
 
-## ゲームに対して要望やコメントを送れる連絡先
+## Note
+
+```bash
+- 
+
+- 
+
+- 
+```
+
+## Contact
 
 こんなゲームを作って欲しい
 
 このREADMEの〇〇の部分がよく分からない
 
-## プロジェクトメンバーと所属
+## Project Members
+
+- 
+
+- 
+
+- 
+
