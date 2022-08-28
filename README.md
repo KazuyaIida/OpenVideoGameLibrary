@@ -14,35 +14,21 @@ Click [here](https://open-video-game-library.github.io/info/about/) to visit our
 
 ## Licence
 
-```bash
-1. 
+1. This game library is open to any use for research purposes.
 
-2. 
+2. Do not distribute secondarily.
 
-3. 
-```
+3. Modification of the source code is permitted, but it is prohibited to pretend that it was developed by you.
+
+4. Do not use for commercial purposes.
 
 ## Note
 
-```bash
-- 
+- Please specify configuration parameters.
 
-- 
-
-- 
-```
+- Please cite our paper in your paper or mention that you used a game from the Open Video Game Library.
 
 ## Contact
 
-こんなゲームを作って欲しい
-
-このREADMEの〇〇の部分がよく分からない
-
-## Project Members
-
-- 
-
-- 
-
-- 
+If you have any comments, requests or questions, please feel free to contact us [here](https://open-video-game-library.github.io/info/contact/).
 
